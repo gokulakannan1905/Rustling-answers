@@ -7,7 +7,7 @@
 // how to go through elements within an iterable collection.
 //
 // Execute `rustlings hint iterators1` or use the `hint` watch subcommand for a hint.
-
+// I AM NOT DONE
 
 
 fn main () {

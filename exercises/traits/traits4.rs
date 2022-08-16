@@ -3,7 +3,7 @@
 // Your task is to replace the '??' sections so the code compiles.
 // Don't change any line other than 21.
 // Execute `rustlings hint traits4` or use the `hint` watch subcommand for a hint.
-
+// I AM NOT DONE
 
 pub trait Licensed {
     fn licensing_info(&self) -> String {

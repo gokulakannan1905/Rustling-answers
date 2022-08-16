@@ -3,7 +3,7 @@
 // Your task is to replace the '??' sections so the code compiles.
 // Don't change any line other than 27.
 // Execute `rustlings hint traits5` or use the `hint` watch subcommand for a hint.
-
+// I AM NOT DONE
 
 pub trait SomeTrait {
     fn some_function(&self) -> bool {

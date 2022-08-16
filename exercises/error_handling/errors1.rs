@@ -4,7 +4,7 @@
 // was, instead of just sometimes returning `None`. Thankfully, Rust has a similar
 // construct to `Option` that can be used to express error conditions. Let's use it!
 // Execute `rustlings hint errors1` or use the `hint` watch subcommand for a hint.
-
+// I AM NOT DONE
 
 
 pub fn generate_nametag_text(name: String) -> Result<String,String> {
